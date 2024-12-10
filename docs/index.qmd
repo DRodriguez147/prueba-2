@@ -5,8 +5,10 @@ format: html
 editor: visual
 ---
 
-#Titulo
-##Subtitulo
+# Titulo
+##  Subtitulo
+
+### Encabezado
 
 $$
 \alpha=0,05
